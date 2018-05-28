@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "com.hongyun.cordova.plugin.encode",
+    "id": "com.hongyun.cordova.plugin.alipay",
     "platforms": [
       "android"
     ]
