@@ -5,7 +5,8 @@
   "cordova": {
     "id": "com.hongyun.cordova.plugin.alipay",
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ]
   },
   "repository": {
